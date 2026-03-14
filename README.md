@@ -54,6 +54,8 @@ Here are some areas I'm working on:
 
 - GitHub: https://github.com/sec-yash
 - Email: cyberyashrajpandey@gmail.com
+- Linkedin: www.linkedin.com/in/yash-raj-pandey-sec
+- Phone No: +917500019994
 
 ---
 
