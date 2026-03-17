@@ -103,6 +103,20 @@
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+| 🎖️ Certification | 🏢 Issuer | 📅 Status |
+|:---|:---|:---:|
+| **Certified Ethical Hacker (CEH)** | EC-Council | ✅ Certified |
+| **eJPT** | eLearnSecurity | 🔄 In Progress |
+| **Google Cybersecurity Certificate** | Google / Coursera | 🎯 Planned |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -129,8 +143,8 @@
 ║  Web Application Security                                        ║
 ║  [███████████████░░░░░]  75%  ████████████████░░░░              ║
 ║                                                                  ║
-║  Vulnerability Assessment & Penetration Testing                  ║
-║  [██████████████░░░░░░]  70%  ██████████████░░░░░░              ║
+║  Vulnerability Assessment & Penetration Testing (CEH ✅)         ║
+║  [████████████████░░░░]  80%  ████████████████░░░░             ║
 ║                                                                  ║
 ║  Python & Scripting for Security                                 ║
 ║  [███████████████░░░░░]  72%  ██████████████░░░░░░              ║
@@ -185,6 +199,18 @@
 
 ---
 
+## 🎓 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏛️ Issuer | 📅 Status |
+|:---|:---|:---:|
+| **Certified Ethical Hacker (CEH)** | EC-Council | ✅ Certified |
+
+</div>
+
+---
+
 ## 🎯 2025 Roadmap
 
 <div align="center">
@@ -192,9 +218,9 @@
 | Q | Goal | Status |
 |:---:|:---|:---:|
 | Q1 | Master OWASP Top 10 & Burp Suite Pro | ✅ Done |
-| Q2 | Complete eJPT / CEH certification prep | 🔄 In Progress |
-| Q3 | Bug Bounty — first valid submission | 🎯 Upcoming |
-| Q4 | Build & publish a public security tool | 🔮 Planned |
+| Q2 | Complete CEH Certification | ✅ Done 🎉 |
+| Q3 | Bug Bounty — first valid submission | 🔄 In Progress |
+| Q4 | Build & publish a public security tool | 🎯 Upcoming |
 
 </div>
 
